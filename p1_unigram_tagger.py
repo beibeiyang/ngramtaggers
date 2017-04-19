@@ -1,3 +1,7 @@
+#! /usr/bin/python
+
+__author__="Beibei Yang <byang1@cs.uml.edu>"
+
 from collections import defaultdict
 
 def replace_rare_words (oldtrainfile, newtrainfile, rarewords):
